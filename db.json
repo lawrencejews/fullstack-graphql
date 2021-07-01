@@ -1,1 +1,24 @@
-{}
+{
+    "user":{
+        "id":"jBWMVGjm5016LGwepDoty",
+        "username":"frontendmasters"
+    },
+    "pet": [
+        {"id":"hfgiedk455",
+        "type": "DOG",
+        "name":"Moose",
+        "createdAt": "86784"
+        },
+        {"id":"hfgiedkt455",
+        "type": "CAT",
+        "name":"Drama",
+        "createdAt": "86784"
+        },
+        {"id":"hfgiedkj455",
+        "type": "DOG",
+        "name":"Karma",
+        "createdAt": "86784"
+        }
+
+    ]
+}
